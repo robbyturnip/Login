@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="btn">LOGIN</string>
+    <string name="Nama">Nama</string>
+    <string name="pass">Password</string>
+    <string name="foto">Foto</string>
+    <string name="nim">Nomor Induk Mahasiswa</string>
+    <string name="register">Register</string>
+    <string name="errornama">Nama Tidak Cocok</string>
+    <string name="errornim">NIM Tidak Cocok</string>
+    <string name="errorpass">Password TIdak Cocok</string>
+    <string name="sambutan">Selamat Datang</string>
+</resources>
